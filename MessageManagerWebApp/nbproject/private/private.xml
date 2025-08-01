@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/nkamb/Documents/NetBeansProjects/MessageManagerWebApp/src/java/za/ac/tut/web/exception/AgentIDNotValid.java</file>
+            <file>file:/C:/Users/nkamb/Documents/NetBeansProjects/MessageManagerWebApp/src/java/za/ac/tut/web/myServlet/StartSessionServelet.java</file>
+            <file>file:/C:/Users/nkamb/Documents/NetBeansProjects/MessageManagerWebApp/web/user_already_exists_error.jsp</file>
+            <file>file:/C:/Users/nkamb/Documents/NetBeansProjects/MessageManagerWebApp/src/java/za/ac/tut/web/exception/UserAlreadyExistsException.java</file>
+            <file>file:/C:/Users/nkamb/Documents/NetBeansProjects/MessageManagerWebApp/src/java/za/ac/tut/web/myServlet/EncryptMessageSevelet.java</file>
+            <file>file:/C:/Users/nkamb/Documents/NetBeansProjects/MessageManagerWebApp/web/encrypt_outcome.jsp</file>
+            <file>file:/C:/Users/nkamb/Documents/NetBeansProjects/MessageManagerWebApp/src/java/za/ac/tut/web/model/AgentIDValidation.java</file>
+            <file>file:/C:/Users/nkamb/Documents/NetBeansProjects/MessageManagerWebApp/web/agent_not_found_error.jsp</file>
+        </group>
+    </open-files>
+</project-private>
