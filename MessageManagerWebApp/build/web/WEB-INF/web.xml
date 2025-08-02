@@ -12,6 +12,10 @@
         <servlet-name>LogoutServlet</servlet-name>
         <servlet-class>za.ac.tut.web.myServlet.LogoutServlet</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>view_decrypted_messages</servlet-name>
+        <servlet-class>za.ac.tut.web.myServlet.view_decrypted_messages</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>StartSessionServelet</servlet-name>
         <url-pattern>/StartSessionServelet.do</url-pattern>
@@ -23,6 +27,10 @@
     <servlet-mapping>
         <servlet-name>LogoutServlet</servlet-name>
         <url-pattern>/LogoutServlet.do</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>view_decrypted_messages</servlet-name>
+        <url-pattern>/view_decrypted_messages.do</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>

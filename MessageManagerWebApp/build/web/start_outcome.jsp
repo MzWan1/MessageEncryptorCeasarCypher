@@ -18,17 +18,9 @@
             String computer_name = application.getInitParameter("computer_name");
         %>
         <p>Hi <b><%=agent_name%></b> my name is <b><%=computer_name%></b>, please select option below</p>
-        <form action="EncryptMessageSevelet.do" method="POST">
-            <table>
-                <tr>
-                    <td>Text: </td>
-                    <td><textarea name="plainText" cols="20" rows="5" required=""></textarea></td>
-                </tr>
-                <tr>
-                    <td></td>
-                    <td><input type="submit" value="CYPHERTEXT" /></td>
-                </tr>
-            </table>
-        </form>
+        <ul>
+            <li><a href="agent_menu.html">Agent Menu</a></li>
+            <li><a href="agent_manager_menu.html">Agent Manger Menu</a></li> 
+        </ul>
     </body>
 </html>
