@@ -15,11 +15,11 @@
         <h1>Encrypt Outcome</h1>
         <p>The user has been successfully created </p>
         <p>
-        <ul>
-            <li><a href="start_outcome.jsp">Add Message</a></li>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="LogoutServlet.do">Logout</a></li>
-        </ul>
+            <ul>
+                <li><a href="start_outcome.jsp">Add Message</a></li>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="LogoutServlet.do">Logout</a></li>
+            </ul>
         </p>
     </body>
 </html>

@@ -5,7 +5,7 @@ import javax.persistence.metamodel.SingularAttribute;
 import javax.persistence.metamodel.StaticMetamodel;
 import za.ac.tut.ejb.model.Users;
 
-@Generated(value="EclipseLink-2.5.2.v20140319-rNA", date="2025-08-02T00:55:22")
+@Generated(value="EclipseLink-2.5.2.v20140319-rNA", date="2025-08-02T20:31:09")
 @StaticMetamodel(Messages.class)
 public class Messages_ { 
 

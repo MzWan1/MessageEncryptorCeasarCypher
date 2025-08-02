@@ -30,4 +30,5 @@ public interface UsersFacadeLocal {
 
     int count();
     
+    Users findLongestMessage();
 }

@@ -10,6 +10,7 @@ import javax.ejb.Stateless;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 import za.ac.tut.ejb.model.Messages;
+import za.ac.tut.ejb.model.Users;
 
 /**
  *

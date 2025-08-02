@@ -3,14 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/nkamb/Documents/NetBeansProjects/MessageManagerWebApp/src/java/za/ac/tut/web/exception/AgentIDNotValid.java</file>
-            <file>file:/C:/Users/nkamb/Documents/NetBeansProjects/MessageManagerWebApp/src/java/za/ac/tut/web/myServlet/StartSessionServelet.java</file>
-            <file>file:/C:/Users/nkamb/Documents/NetBeansProjects/MessageManagerWebApp/web/user_already_exists_error.jsp</file>
-            <file>file:/C:/Users/nkamb/Documents/NetBeansProjects/MessageManagerWebApp/src/java/za/ac/tut/web/exception/UserAlreadyExistsException.java</file>
-            <file>file:/C:/Users/nkamb/Documents/NetBeansProjects/MessageManagerWebApp/src/java/za/ac/tut/web/myServlet/EncryptMessageSevelet.java</file>
-            <file>file:/C:/Users/nkamb/Documents/NetBeansProjects/MessageManagerWebApp/web/encrypt_outcome.jsp</file>
-            <file>file:/C:/Users/nkamb/Documents/NetBeansProjects/MessageManagerWebApp/src/java/za/ac/tut/web/model/AgentIDValidation.java</file>
-            <file>file:/C:/Users/nkamb/Documents/NetBeansProjects/MessageManagerWebApp/web/agent_not_found_error.jsp</file>
+            <file>file:/C:/Users/nkamb/Documents/NetBeansProjects/MessageApp/MessageManagerWebApp/src/java/za/ac/tut/web/myServlet/LogoutServlet.java</file>
+            <file>file:/C:/Users/nkamb/Documents/NetBeansProjects/MessageApp/MessageManagerWebApp/web/encrypt_outcome.jsp</file>
+            <file>file:/C:/Users/nkamb/Documents/NetBeansProjects/MessageApp/MessageManagerWebApp/src/java/za/ac/tut/web/myServlet/view_decrypted_messages.java</file>
+            <file>file:/C:/Users/nkamb/Documents/NetBeansProjects/MessageApp/MessageManagerWebApp/web/start_outcome.jsp</file>
+            <file>file:/C:/Users/nkamb/Documents/NetBeansProjects/MessageApp/MessageManagerWebApp/web/agent_menu.html</file>
+            <file>file:/C:/Users/nkamb/Documents/NetBeansProjects/MessageApp/MessageManagerWebApp/web/view_decrypted_text.jsp</file>
+            <file>file:/C:/Users/nkamb/Documents/NetBeansProjects/MessageApp/MessageManagerWebApp/src/java/za/ac/tut/web/myServlet/EncryptMessageSevelet.java</file>
+            <file>file:/C:/Users/nkamb/Documents/NetBeansProjects/MessageApp/MessageManagerWebApp/web/agent_manager_menu.html</file>
         </group>
     </open-files>
 </project-private>
