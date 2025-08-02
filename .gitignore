@@ -1,0 +1,17 @@
+﻿# NetBeans build files
+build/
+dist/
+nbproject/private/
+*.class
+*.jar
+*.war
+*.rapt
+*.log
+
+# Dependency directories
+node_modules/
+target/
+
+# IDE specific files
+.idea/
+*.iml
